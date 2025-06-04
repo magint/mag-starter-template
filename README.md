@@ -9,7 +9,7 @@ A pre-configured, production-ready Next.js 15+ starter template with Tailwind CS
 Use this command to create a new project from this template:
 
 ```bash
-npx create-next-app@latest <webiste_name> -e https://github.com/magint/mag-starter-template.git
+npx create-next-app@latest test-mag-template -e https://github.com/magint/mag-starter-template/
 cd <website_name>
 npm install # or yarn / npm
 cp .env.example .env.local
